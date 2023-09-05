@@ -1,0 +1,24 @@
+----------------------MD5-------------------------
+
+43fbe123ff892b326945f8917b03c4bd  2014_01-Traffic_Sensors_Fortaleza.csv
+
+real	0m0.035s
+user	0m0.022s
+sys	0m0.006s
+
+----------------------sha1-------------------------
+
+c83c7509850e506d414467d00c33ab786e40fa16  2014_01-Traffic_Sensors_Fortaleza.csv
+
+real	0m0.032s
+user	0m0.022s
+sys	0m0.005s
+
+----------------------sha256-------------------------
+
+0f20c34771934672f77336d26062323b7dc895a2936d8573dbce1b621266de7a  2014_01-Traffic_Sensors_Fortaleza.csv
+
+real	0m0.068s
+user	0m0.060s
+sys	0m0.006s
+
